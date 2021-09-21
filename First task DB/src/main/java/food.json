@@ -1,0 +1,42 @@
+{"food": [
+  {
+    "name": "banan",
+    "expiration_date": "7 days"
+  },
+  {
+    "name": "chips",
+    "expiration_date": "2 years"
+  },
+  {
+    "name": "milk chocolate",
+    "expiration_date": "1 year"
+  },
+  {
+    "name": "tea",
+    "expiration_date": "3 years"
+  },
+  {
+    "name": "ketchup",
+    "expiration_date": "1.5 years"
+  },
+  {
+    "name": "bread",
+    "expiration_date": "3 days"
+  },
+  {
+    "name": "apple",
+    "expiration_date": "14 days"
+  },
+  {
+    "name": "chicken",
+    "expiration_date": "10 days"
+  },
+  {
+    "name": "milk",
+    "expiration_date": "3 days"
+  },
+  {
+    "name": "sugar",
+    "expiration_date": "3 years"
+  }
+]}
